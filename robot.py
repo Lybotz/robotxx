@@ -13,3 +13,11 @@ print(zara['shorts'])
 zara['baby clothes'] = 900
 
 print(zara)
+
+if "shirts" in zara:
+    counter = 0
+    while counter < 5:
+        for key, val in zara.items():
+            counter += 1
+            print(zara)
+            break
