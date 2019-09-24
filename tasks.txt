@@ -15,7 +15,7 @@ lets make new tasks for next week:
 ((messing around here))
 
 
-future??
+past??
 
 
 
@@ -23,4 +23,7 @@ lets try on terminal
 
 
 lets try a new branch
+
+
+
 
