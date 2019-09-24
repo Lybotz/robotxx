@@ -5,3 +5,11 @@ Deadlines:
 3- Learn Matlab ros tools "almost"
 4- Python dic().
 push me()
+
+
+lets make new tasks for next week:
+
+1- Complete Cleaning.
+2- remotely taking care of work in tripoli.
+
+
