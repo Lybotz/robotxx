@@ -1,0 +1,7 @@
+Deadlines:
+
+1- Build a robot.
+2- Learn Git "done".
+3- Learn Matlab ros tools "almost"
+4- Python dic().
+push me()
